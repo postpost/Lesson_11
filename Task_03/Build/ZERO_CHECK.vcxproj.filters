@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\source\repos\NetologyCpp\Lesson_11\Task_03\Build\CMakeFiles\0b62400e74947086f381582a74fb279a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\source\repos\NetologyCpp\Lesson_11\Task_03\Lib\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\Lib</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{071CF12E-17BE-32BA-B670-68B2773704C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\Lib">
+      <UniqueIdentifier>{91D2331B-2804-32AD-B82C-133B55C525BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
