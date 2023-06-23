@@ -3,7 +3,8 @@
 
 #ifndef LEAVELIBRARYDYNAMIC_EXPORTS
 #define LEAVELIBRARY_API __declspec(dllexport)
-#else LEAVELIBRARY_API __declspec(dllimport)
+#else 
+#define LEAVELIBRARY_API __declspec(dllimport)
 
 #endif // LEAVELIBRARYDYNAMIC_EXPORTS
 
