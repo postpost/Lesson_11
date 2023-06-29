@@ -10,4 +10,5 @@ add_executable(Leaver ${SOURCES_EXE})
 
 add_subdirectory(Lib)
 target_link_libraries(Leaver leave_dll)
+target_compile_definitions(leave_dll PRIVATE LEAVELIBRARYDYNAMIC_EXPORTS)
 

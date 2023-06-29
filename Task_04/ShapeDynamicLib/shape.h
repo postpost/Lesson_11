@@ -1,6 +1,6 @@
 #pragma once
 #include <string>
-#ifndef SHAPELIBRARYDYNAMIC_EXPORTS
+#ifdef SHAPELIBRARYDYNAMIC_EXPORTS
 #define SHAPELIBRARY_API __declspec(dllexport)
 #else
 #define SHAPELIBRARY_API __declspec(dllimport)
